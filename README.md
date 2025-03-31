@@ -4,4 +4,5 @@ Emotion identification from textual data is becoming an increasingly relevant st
 
 ![method](https://github.com/user-attachments/assets/d7f0ef39-cef3-490c-973c-653b20f484db)
 
-# Dataset 👉 [link] (https://github.com/Biplob1233/Emotion_Bangla_Text/tree/main/Datasets) 
+# Dataset 👉
+[link] (https://github.com/Biplob1233/Emotion_Bangla_Text/tree/main/Datasets) 
