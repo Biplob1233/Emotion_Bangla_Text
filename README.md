@@ -12,7 +12,7 @@ Banglish to ensure a robust and comprehensive dataset. Table I describes the cla
 ![image](https://github.com/user-attachments/assets/86d057c6-38cd-4ed2-b960-72ba22ddfc50)
 
 # Preprocessing
-👉
+👉 (https://github.com/Biplob1233/Emotion_Bangla_Text/tree/main/Preprocessing)
 
 Preparing the data by applying various preprocessing techniques to clean the Bangla textual data, which reduced the noise and model complexity shown in the figure. This step included text cleaning (removing punctuation and special characters, handling numbers and URLs), normalization (Unicode standardization, removing extra white spaces), tokenization (word tokenization, subword tokenization), stop word removal, handling code-mixed text and so on (mentioned on paper).
 
